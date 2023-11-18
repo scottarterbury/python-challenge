@@ -71,3 +71,6 @@ Winner: Diana DeGette
 ```
 
 In addition, your final script should both print the analysis to the terminal and export a text file with the results.
+
+
+Note:  Used Stackoverflow and the python documentation to format the code better and to debug.
